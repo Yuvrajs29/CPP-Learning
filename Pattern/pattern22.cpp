@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void print1(int n){
+void print22(int n){
     for(int i=0;i<n;i++){
         //star
         for(int j=0;j<=i;j++){
@@ -36,6 +36,6 @@ void print1(int n){
 int main(){
     int n;
     cin>>n;
-    print1(n);
+    print22(n);
     return 0;
 }
