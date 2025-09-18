@@ -17,3 +17,4 @@ int main(){
     print1(n);
     return 0;
 }
+
