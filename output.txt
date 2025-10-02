@@ -1,1 +1,1 @@
-It is an armstrong number
+1
