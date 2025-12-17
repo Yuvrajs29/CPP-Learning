@@ -1,0 +1,4 @@
+- [x] Fix outer loop in insertion_sort to start from i=1
+- [x] Correct typo 'arrr' to 'arr' in while condition
+- [x] Fix main function syntax: remove invalid block after function call and add separate print loop
+- [x] Remove debugging cout statement
