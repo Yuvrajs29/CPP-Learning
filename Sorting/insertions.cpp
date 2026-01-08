@@ -11,7 +11,7 @@ void insertion_sort(int arr[],int n){
             cout<<"Runs"<<endl;
         }
 
-    }
+    }     
 }
 
 int main(){
