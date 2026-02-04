@@ -1,1 +1,1 @@
-7 13 20 24 36 54 
+second smallestt No. is : 13
